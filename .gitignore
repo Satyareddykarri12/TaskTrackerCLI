@@ -1,0 +1,19 @@
+# Java build files
+*.class
+*.jar
+*.war
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files (Eclipse, IntelliJ, etc.)
+*.iml
+.idea/
+*.log
+
+# Ignore task data if you don't want to track user tasks
+tasks.json
